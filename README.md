@@ -1,1 +1,2 @@
 # CLI_BASED_CHAT_TOOL
+A CLI (Command Line Interface) based chat tool is a software application designed to facilitate text-based communication between users within a terminal or console environment. Unlike graphical chat applications that rely on a graphical user interface (GUI), CLI chat tools are operated primarily through text commands and responses, making them suitable for use in terminal-based environments, remote servers, or scenarios where a lightweight, scriptable chat solution is desired.
